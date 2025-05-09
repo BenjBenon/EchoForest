@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: c94ef257351b5254ca039f270d342130
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - up: {fileID: 5313515378142157893, guid: aba1af8170e103341bfb3c87c6fc1e40, type: 3}
+  - left: {fileID: -3469345352719927933, guid: aba1af8170e103341bfb3c87c6fc1e40, type: 3}
+  - down: {fileID: -508070233908825110, guid: aba1af8170e103341bfb3c87c6fc1e40, type: 3}
+  - right: {fileID: -6630928626030474895, guid: aba1af8170e103341bfb3c87c6fc1e40,
+      type: 3}
+  - interact: {fileID: -3788606610541911952, guid: aba1af8170e103341bfb3c87c6fc1e40,
+      type: 3}
+  - inventory: {fileID: 4203503628233953428, guid: aba1af8170e103341bfb3c87c6fc1e40,
+      type: 3}
+  - use: {fileID: -21503096753331357, guid: aba1af8170e103341bfb3c87c6fc1e40, type: 3}
+  - playerAnim: {instanceID: 0}
+  - playerShape: {instanceID: 0}
+  - feet: {instanceID: 0}
+  - mainCanvas: {instanceID: 0}
+  - inventoryCanvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
