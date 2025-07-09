@@ -6,14 +6,13 @@ Environ 2 jours de travail.
 
 ## Description
 
-Echo Forest est un petit jeu développé en solo, visant à démontrer mes compétences en développement gameplay et moteur.
+Echo Forest est un petit jeu développé en solo, visant à démontrer mes compétences en développement gameplay sur Unity.
 
 ## Technologies utilisées
 
-- C++
-- SDL2
-- OpenGL (si applicable)
-- [Autres outils utilisés, si besoin]
+- Unity
+- C#
+- Git
 
 ## Captures d’écran
 
