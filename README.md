@@ -16,7 +16,16 @@ Echo Forest est un petit jeu développé en solo, visant à démontrer mes comp�
 
 ## Captures d’écran
 
-![alt](lien)`
+![Début du jeu](Images/start.png)
+![Utilisation d'items](Images/item_use.png)
+![Stockage d'items](Images/item_stock.png)
+
+## Contrôles
+
+ZQSD  : déplacements
+E     : intéragir avec les objets
+A     : utiliser l'item
+I     : inventaire
 
 ## Auteur
 
