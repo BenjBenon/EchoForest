@@ -22,10 +22,10 @@ Echo Forest est un petit jeu développé en solo, visant à démontrer mes comp�
 
 ## Contrôles
 
-ZQSD  : déplacements
-E     : intéragir avec les objets
-A     : utiliser l'item
-I     : inventaire
+- ZQSD  : déplacements
+- E     : intéragir avec les objets
+- A     : utiliser l'item
+- I     : inventaire
 
 ## Auteur
 
